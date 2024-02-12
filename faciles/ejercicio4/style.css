@@ -1,0 +1,11 @@
+.elemento-padre {
+    width: 600px;
+    height: 600px;
+    border: 1px dotted green;
+}
+
+.elemento {
+    width: 100%;
+    height: 100%;
+    border: 1px dashed red;
+}

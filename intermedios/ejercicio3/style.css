@@ -1,0 +1,9 @@
+body {
+    font-size: 14px;
+}
+
+.elemento {
+   width: 2em;
+   height: 2em;
+   border: 1px solid black;
+}    

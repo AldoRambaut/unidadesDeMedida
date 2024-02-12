@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@media (device-width: 1920px) and (device-height: 1080px){
+    .elemento {
+        width: 100px;
+        height: 100px;
+        border: 1px solid black;
+        box-sizing: border-box;
+    }
+}

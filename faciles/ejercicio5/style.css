@@ -1,0 +1,11 @@
+.elemento-padre {
+    width: 50vw;
+    height: 50vw;
+    border: 1px dashed red;
+}
+
+.elemento {
+    width: inherit;
+    height: inherit;
+    border: 1px dashed blue;
+}
